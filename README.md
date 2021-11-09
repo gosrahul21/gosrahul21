@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rahul Goswami
 - 👀 I’m interested in Full stack Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Advanced Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach me on https://www.linkedin.com/in/rahul-goswami-56800717b/
 
 <!---
 gosrahul21/gosrahul21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
