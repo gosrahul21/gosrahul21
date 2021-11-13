@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul Goswami
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning Advanced Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on https://www.linkedin.com/in/rahul-goswami-56800717b/
 
 <!---
