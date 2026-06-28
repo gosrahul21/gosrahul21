@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul Goswami
 - 👀 I love solving problems and develop web application
-- 🌱 I’m currently learning Advanced Node.js
 - 📫 you can reach me on https://www.linkedin.com/in/rahul-goswami-56800717b/
 
 <!---
